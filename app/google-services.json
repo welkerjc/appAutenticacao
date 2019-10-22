@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "703389190055",
+    "firebase_url": "https://dbatenticacao.firebaseio.com",
+    "project_id": "dbatenticacao",
+    "storage_bucket": "dbatenticacao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703389190055:android:ec52417c161113bb7dd882",
+        "android_client_info": {
+          "package_name": "com.example.appatenticacao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703389190055-c6rbg4lmihjs9t2q0t3ho66043tgoe1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appatenticacao",
+            "certificate_hash": "d29156323a8f4c99132321c018f42b70a69e8435"
+          }
+        },
+        {
+          "client_id": "703389190055-e7pq68ag04cs0mq1ekpdf59ff43o27f3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTQK9oM2bTeAgaTmraoGo-V5vhA1BeQoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703389190055-e7pq68ag04cs0mq1ekpdf59ff43o27f3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
